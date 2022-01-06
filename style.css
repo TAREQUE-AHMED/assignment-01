@@ -121,6 +121,16 @@ h1{
 #about-me{
 display:flex;
 }
+#images{
+    width:50%;
+}
+.about-section{
+    display: flex;
+}
+
+.about-me h1{
+    font-size:40px;
+}
 footer{
     background-color: black;
     text-align: center;
