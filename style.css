@@ -37,6 +37,7 @@ h1{
 .half-width{
     width:50%;
     padding-left: 3%;
+    
 }
 .half-width img{
     width:50%;
@@ -104,6 +105,7 @@ h1{
 }
 #global-section{
     display: flex;
+    margin-bottom: 46px;
 }
 #img{
     margin-left: 10px;
@@ -114,7 +116,7 @@ h1{
     width:200px;
     height: 200px;
     z-index: -1;
-    top:1500px
+    top: 1472px;    
 }
 #about-me{
 display:flex;
